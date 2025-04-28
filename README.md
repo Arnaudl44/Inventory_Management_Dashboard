@@ -40,6 +40,13 @@ L'objectif est d’identifier des tendances clés et de proposer des leviers pou
 
 ---
 
+## 🌐 Accès au projet
+
+- [Visualiser le tableau de bord en ligne (Power BI Service)](https://app.powerbi.com/view?r=eyJrIjoiZTkzMTI2YTAtZTUxZS00Y2M4LWIyNzYtNDgyNWQ2NjlmNDk0IiwidCI6IjI1Y2UwMjYxLWJiZDYtNDljZC1hMWUyLTU0MjYwODg2ZDE1OSJ9)
+- [Télécharger le fichier Power BI (.pbix) via Google Drive](https://drive.google.com/file/d/1vaRWcdGoD5P08_xOhTaNhTT5WIpzOTic/view?usp=sharing)
+
+---
+
 ## 🛠️ Approche technique et fonctionnalités
 
 - **Formules DAX personnalisées** pour calculer :
@@ -48,18 +55,16 @@ L'objectif est d’identifier des tendances clés et de proposer des leviers pou
   - Le taux de rotation des stocks.
 
 - **Utilisation des paramètres de champs** pour créer des visualisations dynamiques :
-  - Sélection interactive entre différentes mesures (ex : stock actuel, stock minimum, stock maximum).
+  - Sélection interactive entre différentes mesures (stock actuel, stock minimum, stock maximum).
 
 - **Mise en évidence des écarts critiques** :
-  - Mises en forme conditionnelles pour alerter visuellement sur les produits en sous-stock ou en risque de rupture.
+  - Mises en forme conditionnelles pour alerter sur les produits en sous-stock ou en risque de rupture.
 
-- **Navigation fluide entre les analyses** :
+- **Navigation fluide et intuitive** :
   - Tableau de bord organisé par **onglets** clairs et ergonomiques.
-  - Possibilité de revenir facilement à la vue d'ensemble depuis chaque page.
 
-- **Design épuré et professionnel** :
-  - Utilisation de palettes de couleurs cohérentes pour faciliter la lecture.
-  - Respect des principes de visualisation : pas de surcharge, hiérarchie visuelle claire.
+- **Design professionnel** :
+  - Palette de couleurs cohérente, priorisation visuelle des insights critiques, respect des bonnes pratiques UX.
 
 ---
 
@@ -72,9 +77,9 @@ L'objectif est d’identifier des tendances clés et de proposer des leviers pou
 ---
 
 ## 🧠 Insights et recommandations
-- Les produits proches du point de rupture doivent être priorisés pour le réassort.
-- Certains fournisseurs présentent des délais de livraison longs, nécessitant une anticipation dans les commandes.
-- La répartition géographique révèle des déséquilibres d’inventaire entre entrepôts, ce qui ouvre des pistes d'optimisation logistique.
+- Prioriser le réassort des produits proches du point de commande pour éviter les ruptures.
+- Anticiper les commandes fournisseurs ayant un délai long.
+- Optimiser la répartition des stocks entre entrepôts pour lisser les écarts de disponibilité.
 
 ---
 
