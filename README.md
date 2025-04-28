@@ -1,7 +1,7 @@
 # 📦 Inventory Management Dashboard
 
 ## 📄 Contexte du projet
-> Projet réalisé dans le cadre du **FP20 Analytics Challenge 25**.
+Projet réalisé dans le cadre du **FP20 Analytics Challenge 25**.
 
 Une gestion efficace des stocks est essentielle pour équilibrer l’offre et la demande tout en optimisant les coûts.  
 Ce tableau de bord explore les niveaux de stock, la performance des fournisseurs, l’utilisation des entrepôts et les stratégies de réapprovisionnement.  
